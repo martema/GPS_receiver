@@ -1,6 +1,5 @@
 %Acquisition stage - Paralell acquisition real signals
-%
-% February 2017
+
 
 %% Step 4 - Real GNSS signal
 clc
