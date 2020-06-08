@@ -20,8 +20,8 @@ function [ code_Out, chip_Fraction_Out ] = SampleCode( sampling_Rate, code_In, c
 %    chip_Fraction_Out - Fractional part of the number of samples for the
 %                        next block
 %
-% Author: Cilia Martina, Arena Remo
-% February 2017
+% Author: Cilia Martina
+
 
 
 n_Samples_Chip = sampling_Rate / chip_Rate; % #samples per chip (Fractional)
