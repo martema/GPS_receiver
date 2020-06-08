@@ -1,6 +1,5 @@
 % Acquisition stage - Serial search
-%
-% February 2017
+
 
 clc
 clear all
