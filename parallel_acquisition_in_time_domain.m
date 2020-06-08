@@ -1,6 +1,4 @@
 %Acquisition stage - Parallel acquisition in time domain
-%
-% February 2017
 
 %% Step 2 - Parallel acquisition in time domain
 clc
