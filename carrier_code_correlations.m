@@ -1,6 +1,5 @@
 % Generation of carrier and code, correlations
-%
-% February 2017
+
 
 clc
 clear all
