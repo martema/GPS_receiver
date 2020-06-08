@@ -12,8 +12,8 @@ function [CA_Code] = GoldCodeGenerator()
 %    CA_Code - p*sv_Num matrix that contains the code of length p for each
 %    of the GPS satellites
 %
-% Author: Cilia Martina, Arena Remo
-% February 2017
+% Author: Cilia Martina
+
 
 %% Parameters
 N = 10;
