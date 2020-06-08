@@ -26,8 +26,8 @@ function [ carrier, phase_Out, carrier_Cos, carrier_Sin, carrier_Fraction_Out ] 
 %    carrier_Fraction_Out - Fractional part of the number of samples for
 %                           the next block
 %
-% Author: Cilia Martina, Arena Remo
-% February 2017
+% Author: Cilia Martina
+
 
 n_Samples_Eff=floor(n_Samples+carrier_Fraction_In); % Integer part of the number of samples
 
