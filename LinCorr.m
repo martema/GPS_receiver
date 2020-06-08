@@ -12,8 +12,8 @@ function [ l_Corr] = LinCorr( input_1, input_2 )
 %    l_Corr - Linear correlation function between sequence input_1 and
 %    sequence input_2, dimensions 1*(length of the longest sequence);
 %
-% Author: Cilia Martina, Arena Remo
-% February 2017
+% Author: Cilia Martina
+
 
 N1 = length(input_1); % Length of sequence 1
 N2 = length(input_2); % Length of sequence 2
