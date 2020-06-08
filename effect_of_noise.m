@@ -1,6 +1,5 @@
 %Acquisition stage - Effect of noise
-%
-% February 2017
+
 
 %% Step 3 - Effect of noise
 clc
